@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include "cvaux.h"
 #include "codeb.h"
-
+//
 int CVCONTOUR_APPROX_LEVEL = 2;   
 int CVCLOSE_ITR = 1;
 				
